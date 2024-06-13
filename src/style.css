@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato&family=Poiret+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poiret+One&display=swap');
 
 * {
   padding: 0;
@@ -19,7 +19,6 @@ body {
 }
 
 .container {
-  /* 1140px */
   max-width: 120rem;
   padding: 0 4.2rem;
   margin: 0 auto;
